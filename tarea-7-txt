@@ -1,0 +1,19 @@
+Como vieron en la clase, se comenzará con “mobile first”. En esa vista se tendrán 3 cajas de diferentes
+colores los cuales aparecerán uno abajo de otro teniendo una columna y tres filas.
+¡Recordá utilizar éstas propiedades de grid que te serán de mucha utilidad!
+grid-column-start: ;
+grid-row-start: ;
+
+Ésta vista se verá así hasta un máximo de 320px.
+
+En las medidas de tablet (entre 321px y 768px)
+se agrega una columna y en esa misma tres
+cuadrados más con otros colores.
+Se le agrega un margen para que no queden los
+cuadrados unidos.
+¡Intentá intercambiar los colores!
+
+Y en la última vista, (769px en adelante) se agrega
+una columna con 3 cuadrados más, teniendo en total
+nueve cuadrados de diferentes colores.
+¡Nuevamente intentá intercambiar los colores!
